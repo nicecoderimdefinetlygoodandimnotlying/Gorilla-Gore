@@ -2,3 +2,6 @@ THIS MOD WAS GENERATED USING OPUS 5.5
 WHICH MEANS THAT THIS PROJECT IS VIBECODED
 MAKE SURE TO CREDIT ME IF YOU MAKE VIDEOS USING THIS MOD
 IF YOU HAVE ANY SUGGESTIONS, FORK THIS AND ADD A "Suggestion.txt"
+
+This mod is not affiliated with Gorilla Tag or Another Axiom LLC and is not sponsored by Another Axiom LLC.
+This mod uses some things from Gorilla Tag.
